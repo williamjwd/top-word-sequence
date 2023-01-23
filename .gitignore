@@ -26,3 +26,6 @@ hs_err_pid*
 # Intellij Folders/Files
 *.iml
 .idea
+
+# Other files
+.DS_Store
